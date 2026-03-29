@@ -1,5 +1,6 @@
 # digital-literacy
-this is an python project which checks the password strength
+this is an 
+project which checks the password strength
 
 # 🔐 Password Strength Analyzer (Digital Literacy Security Tool)
 
